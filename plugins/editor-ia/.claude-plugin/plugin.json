@@ -1,0 +1,8 @@
+{
+  "name": "editor-ia",
+  "version": "1.0.0",
+  "description": "Kit del alumno de Jesdom: edita tus videos verticales con Claude. IA con propósito: guion, referencia, montaje de tomas y control de calidad.",
+  "author": {
+    "name": "Jesdom"
+  }
+}

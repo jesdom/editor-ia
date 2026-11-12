@@ -1,0 +1,13 @@
+{
+  "name": "jesdom",
+  "owner": {
+    "name": "Jesdom"
+  },
+  "plugins": [
+    {
+      "name": "editor-ia",
+      "source": "./plugins/editor-ia",
+      "description": "Kit del alumno de Jesdom: edita tus videos verticales con Claude. IA con propósito: guion, referencia, montaje de tomas y control de calidad."
+    }
+  ]
+}
